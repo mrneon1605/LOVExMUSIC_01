@@ -14,10 +14,10 @@ API_HASH = getenv("API_HASH")
 BOT_TOKEN = getenv("BOT_TOKEN")
 
 # Get Your bot username
-BOT_USERNAME = getenv("BOT_USERNAME" , "Groovy_music_bot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "Love_X_Music_BoT")
 
 # Don't Add style font 
-BOT_NAME = getenv("BOT_NAME" , "Groovymusic")
+BOT_NAME = getenv("BOT_NAME" , "LoveXmusic")
 
 # Get your mongo url from cloud.mongodb.com
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
@@ -28,7 +28,7 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 900))
 LOGGER_ID = int(getenv("LOGGER_ID", None))
 
 # Get this value from @BRANDRD_ROBOT on Telegram by /id
-OWNER_ID = int(getenv("OWNER_ID", 1642149912))
+OWNER_ID = int(getenv("OWNER_ID", 5292020082))
 
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
