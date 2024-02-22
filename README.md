@@ -21,7 +21,7 @@
 [![Contributors](https://contrib.rocks/image?repo=Skyxlor/GROOVYxMUSIC)](https://github.com/Skyxlor/GROOVYxMUSIC/graphs/contributors)
 
 ### Contact :
-<a href="https://t.me/M3_4_U"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
+<a href="https://t.me/LxF_MR_NEON"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
