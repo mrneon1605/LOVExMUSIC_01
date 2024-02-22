@@ -41,4 +41,4 @@
 </p>
 
 
-- <b> sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [𝐒ᴋʏ 𝛘 ℓᴏʀᴅ▼𝐀sᴜʀᴀ™ »𝐝3/ᶜʷʰ](https://github.com/Skyxlor) ғᴏʀ [𝐒ᴋʏ 𝛘 ℓᴏʀᴅ▼𝐀sᴜʀᴀ™ »𝐝3/ᶜʷʰ](https://github.com/Skyxlor/GROOVYxMUSIC) </b>
+- <b> sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [⏤͟͟͞͞𝐋𝐱𝐅🥀| 𓆩 𝐌𝐑 𝐍𝐄𝐎𝐍 𓆪 |∘𖣘︎⃞⃟🔥ॐसनातनी 🚩](https://github.com/Skyxlor) ғᴏʀ [⏤͟͟͞͞𝐋𝐱𝐅🥀| 𓆩 𝐌𝐑 𝐍𝐄𝐎𝐍 𓆪 |∘𖣘︎⃞⃟🔥ॐसनातनी 🚩](https://github.com/Skyxlor/GROOVYxMUSIC) </b>
