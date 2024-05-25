@@ -8,7 +8,7 @@
    [![xᴅ_ɴᴇᴛᴡᴏʀᴋ](https://github-stats-alpha.vercel.app/api?username=Skyxlor "GROOVYxMUSIC")](https://github-stats-alpha.vercel.app/api?username=Skyxlor "GROOVYxMUSIC")
 
 <p align="center">
-  <img src="https://graph.org/file/776bd569f03c377d5b846.jpg">
+  <img src="https://graph.org/file/5b01eac7d295f8be0b867.jpg">
 </p>
 
 
